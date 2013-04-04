@@ -1,8 +1,18 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 04 Apr 2013 12:29:29 EST
+EESchema-DOCLIB  Version 2.0  Date: Thu 04 Apr 2013 16:16:40 EST
 #
 $CMP 74LVC1G125
 D Single Bus Buffer Gate with 3-state Output (DBV or DCK package)
 K SN74LVC1G125
+$ENDCMP
+#
+$CMP ARDUINO_MEGA_SHIELD
+D Original by nicholasclewis
+F http://www.thingiverse.com/thing:9630
+$ENDCMP
+#
+$CMP ARDUINO_SHIELD
+D Original by nicholasclewis
+F http://www.thingiverse.com/thing:9630
 $ENDCMP
 #
 $CMP ATSAM3X8E
