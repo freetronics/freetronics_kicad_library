@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 04 Apr 2013 11:34:53 EST
+EESchema-DOCLIB  Version 2.0  Date: Thu 04 Apr 2013 11:49:01 EST
 #
 $CMP 74LVC1G125
 D Single Bus Buffer Gate with 3-state Output (DBV or DCK package)
@@ -8,6 +8,10 @@ $ENDCMP
 $CMP ATSAM3X8E
 D ATSAM3X8E 32-bit ARM MCU
 F http://www.atmel.com/devices/SAM3X8E.aspx?tab=documents
+$ENDCMP
+#
+$CMP LM2734Y
+D LM2734 Thin SOT 1A Load Step-Down DC-DC Regulator
 $ENDCMP
 #
 $CMP POWERJACK
