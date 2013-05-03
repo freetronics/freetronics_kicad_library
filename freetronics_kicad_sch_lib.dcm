@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 11 Apr 2013 14:58:13 EST
+EESchema-DOCLIB  Version 2.0  Date: Thu 18 Apr 2013 14:32:10 EST
 #
 $CMP 74LVC1G125
 D Single Bus Buffer Gate with 3-state Output (DBV or DCK package)
@@ -27,11 +27,6 @@ $ENDCMP
 #
 $CMP LM2734Y
 D LM2734 Thin SOT 1A Load Step-Down DC-DC Regulator
-$ENDCMP
-#
-$CMP NCP1117ST33T3G
-D 3.3V LDO Linear Regulator
-K 3.3V
 $ENDCMP
 #
 $CMP POWERJACK
