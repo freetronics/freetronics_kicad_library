@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Wed 22 May 2013 15:21:20 EST
+EESchema-DOCLIB  Version 2.0  Date: Tue 28 May 2013 09:12:03 EST
 #
 $CMP 74LVC1G125
 D Single Bus Buffer Gate with 3-state Output (DBV or DCK package)
@@ -23,6 +23,11 @@ $ENDCMP
 $CMP ATSAM3X8E
 D ATSAM3X8E 32-bit ARM MCU
 F http://www.atmel.com/devices/SAM3X8E.aspx?tab=documents
+$ENDCMP
+#
+$CMP JOYSTICK_W_BUTTON
+D Mini Joystick with button, similar to PS2 controller joystick
+K joystick button ps2
 $ENDCMP
 #
 $CMP LM2734Y
