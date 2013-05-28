@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Tue 28 May 2013 09:12:03 EST
+EESchema-DOCLIB  Version 2.0  Date: Tue 28 May 2013 12:07:20 EST
 #
 $CMP 74LVC1G125
 D Single Bus Buffer Gate with 3-state Output (DBV or DCK package)
@@ -7,22 +7,29 @@ $ENDCMP
 #
 $CMP ARDUINO_DUE_SHIELD
 D Original by nicholasclewis
+K Arduino
 F http://www.thingiverse.com/thing:9630
 $ENDCMP
 #
 $CMP ARDUINO_MEGA_SHIELD
 D Original by nicholasclewis
+K arduino mega
 F http://www.thingiverse.com/thing:9630
 $ENDCMP
 #
 $CMP ARDUINO_SHIELD
 D Original by nicholasclewis
+K arduino
 F http://www.thingiverse.com/thing:9630
 $ENDCMP
 #
 $CMP ATSAM3X8E
 D ATSAM3X8E 32-bit ARM MCU
 F http://www.atmel.com/devices/SAM3X8E.aspx?tab=documents
+$ENDCMP
+#
+$CMP BUZZER
+K buzzer piezo sound
 $ENDCMP
 #
 $CMP JOYSTICK_W_BUTTON
