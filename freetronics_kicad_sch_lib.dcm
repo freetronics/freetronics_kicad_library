@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 06 Jun 2013 08:52:03 EST
+EESchema-DOCLIB  Version 2.0  Date: Thu 04 Jul 2013 10:33:44 EST
+#
+$CMP 24AA025E48
+D Microchip 24AA025E48
+$ENDCMP
 #
 $CMP 74LVC1G125
 D Single Bus Buffer Gate with 3-state Output (DBV or DCK package)
