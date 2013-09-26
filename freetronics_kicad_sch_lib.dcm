@@ -1,11 +1,12 @@
-EESchema-DOCLIB  Version 2.0  Date: Fri 19 Jul 2013 13:15:59 EST
-$CMP 74AHCT1G08
-D Single 2 input positive AND gate
-K AND gate logic 74AHCT 74AH
-$ENDCMP
+EESchema-DOCLIB  Version 2.0  Date: Thu 26 Sep 2013 15:26:31 EST
 #
 $CMP 24AA025E48
 D Microchip 24AA025E48
+$ENDCMP
+#
+$CMP 74AHCT1G08
+D Single 2 input positive AND gate
+K AND gate logic 74AHCT 74AH
 $ENDCMP
 #
 $CMP 74LVC1G125
