@@ -14,6 +14,11 @@ D Single Bus Buffer Gate with 3-state Output (DBV or DCK package)
 K SN74LVC1G125
 $ENDCMP
 #
+$CMP 78XX
+D 78XX series linear regulators
+K linear regulator
+$ENDCMP
+#
 $CMP ARDUINO_DUE_SHIELD
 D Original by nicholasclewis
 K Arduino
