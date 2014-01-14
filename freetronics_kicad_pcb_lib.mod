@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Thu 28 Nov 2013 17:13:42 EST
+PCBNEW-LibModule-V1  Thu 02 Jan 2014 14:42:52 EST
 # encoding utf-8
 Units mm
 $INDEX
@@ -22152,7 +22152,7 @@ Po 2.19964 0
 $EndPAD
 $EndMODULE R2010
 $MODULE RASPBERRY_PI_P1
-Po 0 0 0 15 5296BB93 00000000 ~~
+Po 0 0 0 15 52C4E033 00000000 ~~
 Li RASPBERRY_PI_P1
 Sc 0
 AR 
@@ -22172,183 +22172,183 @@ DS 4.5085 36.5315 -8.382 36.5315 0.15 25
 DS 4.5085 -1.9685 4.5085 82.4315 0.15 25
 DS -51.435 -1.9685 4.5085 -1.9685 0.15 25
 $PAD
-Sh "1" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "1" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
 $PAD
-Sh "2" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "2" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 0
 $EndPAD
 $PAD
-Sh "3" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "3" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 2.54
 $EndPAD
 $PAD
-Sh "4" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "4" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 2.54
 $EndPAD
 $PAD
-Sh "5" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "5" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 5.08
 $EndPAD
 $PAD
-Sh "6" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "6" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 5.08
 $EndPAD
 $PAD
-Sh "7" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "7" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 7.62
 $EndPAD
 $PAD
-Sh "8" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "8" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 7.62
 $EndPAD
 $PAD
-Sh "9" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "9" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 10.16
 $EndPAD
 $PAD
-Sh "10" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "10" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 10.16
 $EndPAD
 $PAD
-Sh "11" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "11" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 12.7
 $EndPAD
 $PAD
-Sh "12" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "12" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 12.7
 $EndPAD
 $PAD
-Sh "13" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "13" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 15.24
 $EndPAD
 $PAD
-Sh "14" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "14" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 15.24
 $EndPAD
 $PAD
-Sh "15" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "15" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 17.78
 $EndPAD
 $PAD
-Sh "16" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "16" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 17.78
 $EndPAD
 $PAD
-Sh "17" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "17" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 20.32
 $EndPAD
 $PAD
-Sh "18" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "18" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 20.32
 $EndPAD
 $PAD
-Sh "19" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "19" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 22.86
 $EndPAD
 $PAD
-Sh "20" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "20" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 22.86
 $EndPAD
 $PAD
-Sh "21" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "21" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 25.4
 $EndPAD
 $PAD
-Sh "22" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "22" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 25.4
 $EndPAD
 $PAD
-Sh "23" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "23" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 27.94
 $EndPAD
 $PAD
-Sh "24" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "24" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 27.94
 $EndPAD
 $PAD
-Sh "25" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "25" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 30.48
 $EndPAD
 $PAD
-Sh "26" C 1.5 1.5 0 0 0
-Dr 0.6 0 0
+Sh "26" C 1.7 1.7 0 0 0
+Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 30.48
