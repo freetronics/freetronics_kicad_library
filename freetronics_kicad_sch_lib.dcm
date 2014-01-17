@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 28 Nov 2013 11:42:31 EST
+EESchema-DOCLIB  Version 2.0  Date: Thu 05 Dec 2013 17:08:56 EST
 #
 $CMP 24AA025E48
 D Microchip 24AA025E48
@@ -53,6 +53,11 @@ $ENDCMP
 #
 $CMP LM2734Y
 D LM2734 Thin SOT 1A Load Step-Down DC-DC Regulator
+$ENDCMP
+#
+$CMP MAX3002
+D MAX3000E/MAX3001E/MAX3002 QFN package
+K bidirectional level shifter
 $ENDCMP
 #
 $CMP MC74VHCT50A
