@@ -1,0 +1,12 @@
+(module LED10MM (layer F.Cu)
+  (fp_text reference LED10MM (at 0 0) (layer Cmts.User) hide
+    (effects (font (size 0 0) (thickness 0.000001)))
+  )
+  (fp_text value val** (at 0 0) (layer Eco1.User) hide
+    (effects (font (size 0 0) (thickness 0.000001)))
+  )
+  (fp_arc (start 0.05842 0) (end -4.99872 1.99898) (angle -316.8) (layer F.SilkS) (width 0.2032))
+  (fp_line (start -4.99872 -1.99898) (end -4.99872 1.99898) (layer F.SilkS) (width 0.2032))
+  (pad A thru_hole oval (at 2.54 0) (size 1.79832 1.79832) (drill 1.19888) (layers *.Cu *.Mask))
+  (pad K thru_hole oval (at -2.54 0) (size 1.79832 1.79832) (drill 1.19888) (layers *.Cu *.Mask))
+)
