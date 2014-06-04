@@ -1,0 +1,18 @@
+(module S4B-PH (layer F.Cu)
+  (fp_text reference S4B-PH (at 0 0) (layer Cmts.User) hide
+    (effects (font (size 0 0) (thickness 0.000001)))
+  )
+  (fp_text value val** (at 0 0) (layer Eco1.User) hide
+    (effects (font (size 0 0) (thickness 0.000001)))
+  )
+  (fp_line (start -5.99948 -1.99898) (end -5.99948 6.9977) (layer Cmts.User) (width 0.3048))
+  (fp_line (start -5.99948 6.9977) (end 5.99948 6.9977) (layer Cmts.User) (width 0.3048))
+  (fp_line (start 5.99948 6.9977) (end 5.99948 -1.99898) (layer Cmts.User) (width 0.3048))
+  (fp_line (start 5.99948 -1.99898) (end -5.99948 -1.99898) (layer Cmts.User) (width 0.3048))
+  (pad 1 smd rect (at -2.99974 4.699) (size 0.99822 4.59994) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at -0.99822 4.699) (size 0.99822 4.59994) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 0.99822 4.699) (size 0.99822 4.59994) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 2.99974 4.699) (size 0.99822 4.59994) (layers F.Cu F.Paste F.Mask))
+  (pad P$1 smd rect (at -5.3975 -0.49784 90) (size 3.39852 1.59766) (layers F.Cu F.Paste F.Mask))
+  (pad P$2 smd rect (at 5.3975 -0.49784 90) (size 3.39852 1.59766) (layers F.Cu F.Paste F.Mask))
+)

@@ -1,0 +1,12 @@
+(module PAD1_0.8mm_XBEE (layer F.Cu)
+  (descr "Quartz boitier HC-49 Vertical")
+  (tags "QUARTZ DEV")
+  (autoplace_cost180 10)
+  (fp_text reference PAD1_0.8mm_XBEE (at 0 -1.6002) (layer F.SilkS) hide
+    (effects (font (size 0.9144 0.9144) (thickness 0.2032)))
+  )
+  (fp_text value val** (at 0 1.6002) (layer F.SilkS) hide
+    (effects (font (size 0.9144 0.9144) (thickness 0.2032)))
+  )
+  (pad "" thru_hole oval (at 0 0) (size 1.6002 1.30048) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+)

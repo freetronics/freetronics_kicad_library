@@ -1,0 +1,18 @@
+(module RES0603 (layer F.Cu)
+  (attr smd)
+  (fp_text reference RES0603 (at 0 -1.00076) (layer F.SilkS)
+    (effects (font (size 0.9144 0.9144) (thickness 0.2032)))
+  )
+  (fp_text value val** (at 0 1.19888) (layer F.SilkS) hide
+    (effects (font (size 0.9144 0.9144) (thickness 0.2032)))
+  )
+  (fp_line (start -0.20066 0.25146) (end 0.20066 0.25146) (layer F.SilkS) (width 0.20066))
+  (fp_line (start -0.20066 -0.25146) (end 0.20066 -0.25146) (layer F.SilkS) (width 0.20066))
+  (pad 1 smd rect (at -0.762 0) (size 0.762 0.762) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0.762 0) (size 0.762 0.762) (layers F.Cu F.Paste F.Mask))
+  (model smd\resistors\R0603.wrl
+    (at (xyz 0 0 0.001))
+    (scale (xyz 0.5 0.5 0.5))
+    (rotate (xyz 0 0 0))
+  )
+)
