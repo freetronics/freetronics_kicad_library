@@ -25,6 +25,12 @@ K Arduino
 F http://www.thingiverse.com/thing:9630
 $ENDCMP
 #
+$CMP ARDUINO_FOOTPRINT
+D Arduino board device footprint (power inputs). Original by nicholasclewis
+K arduino
+F http://www.thingiverse.com/thing:9630
+$ENDCMP
+#
 $CMP ARDUINO_MEGA_SHIELD
 D Original by nicholasclewis
 K arduino mega
@@ -32,7 +38,7 @@ F http://www.thingiverse.com/thing:9630
 $ENDCMP
 #
 $CMP ARDUINO_SHIELD
-D Original by nicholasclewis
+D Arduino shield footprint (power outputs). Original by nicholasclewis
 K arduino
 F http://www.thingiverse.com/thing:9630
 $ENDCMP
