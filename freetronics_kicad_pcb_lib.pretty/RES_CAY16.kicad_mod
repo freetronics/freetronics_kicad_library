@@ -1,7 +1,7 @@
-(module RES_CAY16 (layer F.Cu) (tedit 53FD7CEB)
+(module RES_CAY16 (layer F.Cu) (tedit 53FEC3B7)
   (attr smd)
-  (fp_text reference R1 (at -2.1 0 90) (layer F.SilkS)
-    (effects (font (size 0.4 0.4) (thickness 0.1)))
+  (fp_text reference R1 (at -2.2 0 90) (layer F.SilkS)
+    (effects (font (size 0.6 0.6) (thickness 0.15)))
   )
   (fp_text value 1K (at 2.1 0 90) (layer F.SilkS) hide
     (effects (font (size 0.4 0.4) (thickness 0.1)))
