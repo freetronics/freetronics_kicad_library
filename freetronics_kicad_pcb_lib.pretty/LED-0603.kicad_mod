@@ -1,8 +1,8 @@
-(module LED-0603 (layer F.Cu)
-  (fp_text reference LED-0603 (at 0 -0.35) (layer Eco1.User)
-    (effects (font (size 0.2 0.2) (thickness 0.03048)))
+(module LED-0603 (layer F.Cu) (tedit 53FD7D61)
+  (fp_text reference LED7 (at -1.5 0 90) (layer Eco1.User)
+    (effects (font (size 0.3 0.3) (thickness 0.075)))
   )
-  (fp_text value val** (at 0 0.5) (layer Eco1.User)
+  (fp_text value LED (at 0 0.7) (layer Eco1.User) hide
     (effects (font (size 0.2 0.2) (thickness 0.03048)))
   )
   (fp_line (start 0.1778 0.4318) (end 0.1778 0) (layer F.SilkS) (width 0.2032))
