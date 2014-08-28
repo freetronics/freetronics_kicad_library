@@ -52,6 +52,11 @@ $CMP BUZZER
 K buzzer piezo sound
 $ENDCMP
 #
+$CMP CONN_26
+D Symbole general de connexion
+K CONN
+$ENDCMP
+#
 $CMP JOYSTICK_W_BUTTON
 D Mini Joystick with button, similar to PS2 controller joystick
 K joystick button ps2
@@ -70,11 +75,21 @@ $CMP MC74VHCT50A
 D Hex noninverting buffer / CMOS Logic Level Shifter
 $ENDCMP
 #
+$CMP PI_PLUS_CON
+D Raspberry Pi revision 2 P1 connector pinout
+K raspberry pi
+$ENDCMP
+#
 $CMP POWERJACK
 D DC Jack
 $ENDCMP
 #
 $CMP RASPBERRY_PI_P1
+D Raspberry Pi revision 2 P1 connector pinout
+K raspberry pi
+$ENDCMP
+#
+$CMP RASPBERRY_PI_PLUS_CON
 D Raspberry Pi revision 2 P1 connector pinout
 K raspberry pi
 $ENDCMP
