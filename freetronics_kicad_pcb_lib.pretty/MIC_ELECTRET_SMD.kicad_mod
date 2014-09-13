@@ -1,0 +1,13 @@
+(module MIC_ELECTRET_SMD (layer F.Cu)
+  (fp_text reference MIC_ELECTRET_SMD (at 0 0) (layer Cmts.User) hide
+    (effects (font (size 0 0) (thickness 0.000001)))
+  )
+  (fp_text value val** (at 0 0) (layer Eco1.User) hide
+    (effects (font (size 0 0) (thickness 0.000001)))
+  )
+  (fp_circle (center 0 0) (end 1.6256 0) (layer F.Mask) (width 0.99822))
+  (fp_circle (center 0 0) (end 1.62306 0) (layer F.Paste) (width 0.7493))
+  (fp_circle (center 0 0) (end 1.62306 0) (layer F.Cu) (width 0.7493))
+  (pad POS smd rect (at 0 0) (size 1.59766 1.59766) (layers F.Cu F.Paste F.Mask))
+  (pad GND smd rect (at 0 -1.59766) (size 0.7493 0.7493) (layers F.Cu F.Paste F.Mask))
+)

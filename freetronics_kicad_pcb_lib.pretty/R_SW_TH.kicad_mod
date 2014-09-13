@@ -1,0 +1,17 @@
+(module R_SW_TH (layer F.Cu)
+  (fp_text reference R_SW_TH (at 0 0) (layer Cmts.User) hide
+    (effects (font (size 0 0) (thickness 0.000001)))
+  )
+  (fp_text value val** (at 0 0) (layer Eco1.User) hide
+    (effects (font (size 0 0) (thickness 0.000001)))
+  )
+  (fp_line (start -1.651 -19.2532) (end -1.651 1.3716) (layer F.SilkS) (width 0.2032))
+  (fp_line (start -1.651 1.3716) (end -1.651 2.2352) (layer F.SilkS) (width 0.2032))
+  (fp_line (start -1.651 -19.2532) (end 13.589 -19.2532) (layer F.SilkS) (width 0.2032))
+  (fp_line (start 13.589 -19.2532) (end 13.589 2.2352) (layer F.SilkS) (width 0.2032))
+  (fp_line (start 13.589 2.2352) (end -1.651 2.2352) (layer F.SilkS) (width 0.2032))
+  (pad P$1 thru_hole oval (at 0 0) (size 2.4003 2.4003) (drill 1.6002) (layers *.Cu *.Mask))
+  (pad P$2 thru_hole oval (at 0 -16.9926) (size 2.4003 2.4003) (drill 1.6002) (layers *.Cu *.Mask))
+  (pad P$3 thru_hole oval (at 12.0904 -15.494) (size 2.4003 2.4003) (drill 1.6002) (layers *.Cu *.Mask))
+  (pad P$4 thru_hole oval (at 12.0904 -8.4582) (size 2.4003 2.4003) (drill 1.6002) (layers *.Cu *.Mask))
+)
