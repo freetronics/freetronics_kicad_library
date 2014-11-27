@@ -14,11 +14,6 @@ D Single Bus Buffer Gate with 3-state Output (DBV or DCK package)
 K SN74LVC1G125
 $ENDCMP
 #
-$CMP 78XX
-D 78XX series linear regulators
-K linear regulator
-$ENDCMP
-#
 $CMP ARDUINO_DUE_SHIELD
 D Original by nicholasclewis
 K Arduino
@@ -53,8 +48,12 @@ K buzzer piezo sound
 $ENDCMP
 #
 $CMP CONN_26
-D Symbole general de connexion
+D 26 pin connector
 K CONN
+$ENDCMP
+#
+$CMP CRYSTAL_TXC_7V
+D 4 pin SMD crystal
 $ENDCMP
 #
 $CMP JOYSTICK_W_BUTTON
@@ -75,13 +74,13 @@ $CMP MC74VHCT50A
 D Hex noninverting buffer / CMOS Logic Level Shifter
 $ENDCMP
 #
-$CMP PI_PLUS_CON
-D Raspberry Pi revision 2 P1 connector pinout
-K raspberry pi
-$ENDCMP
-#
 $CMP POWERJACK
 D DC Jack
+$ENDCMP
+#
+$CMP R
+D Resistor
+K RESISTOR
 $ENDCMP
 #
 $CMP RASPBERRY_PI_P1
@@ -92,6 +91,51 @@ $ENDCMP
 $CMP RASPBERRY_PI_PLUS_CON
 D Raspberry Pi revision 2 P1 connector pinout
 K raspberry pi
+$ENDCMP
+#
+$CMP R_PACK4
+D Resistor pack (4 resistors)
+K RESISTOR
+$ENDCMP
+#
+$CMP R_PACK8
+D RESISTOR PACK (8 resistors)
+K RESISTOR
+$ENDCMP
+#
+$CMP SW_DPST
+K SWITCH
+$ENDCMP
+#
+$CMP SW_PUSHBUTTON_2PIN
+D Pushbutton
+K SWITCH BUTTON
+$ENDCMP
+#
+$CMP SW_PUSHBUTTON_4PIN
+D Pushbutton
+K SWITCH BUTTON
+$ENDCMP
+#
+$CMP SW_SPDT
+K SWITCH BUTTON
+$ENDCMP
+#
+$CMP SW_SPST
+K SWITCH BUTTON
+$ENDCMP
+#
+$CMP TPS54329
+D 3A DC/DC Step Down Buck Converter
+K REGULATOR
+$ENDCMP
+#
+$CMP TPS54331
+D 3A DC/DC step down converter
+$ENDCMP
+#
+$CMP TPS61040
+D DC/DC Step Up Boost Converter
 $ENDCMP
 #
 $CMP W5100
