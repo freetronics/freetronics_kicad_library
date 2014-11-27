@@ -1,9 +1,9 @@
-(module XBEE_PRO (layer F.Cu)
-  (fp_text reference XBEE_PRO (at 0 -8.99922) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+(module XBEE_PRO (layer F.Cu) (tedit 5477AD8A)
+  (fp_text reference XBEE_PRO (at -0.05 -4.75) (layer Eco1.User)
+    (effects (font (size 1 1) (thickness 0.25)))
   )
-  (fp_text value val** (at 0 26.79954) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value val** (at 0 23.65) (layer Eco1.User) hide
+    (effects (font (size 1 1) (thickness 0.25)))
   )
   (fp_text user AD0 (at 8.19912 0) (layer F.SilkS)
     (effects (font (size 1.00076 1.00076) (thickness 0.20066)))
