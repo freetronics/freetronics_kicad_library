@@ -1,4 +1,4 @@
-(module LCD_16X2_REAR (layer F.Cu)
+(module LCD_16X2_REAR (layer F.Cu) (tedit 5476B231)
   (fp_text reference LCD_16X2_REAR (at -0.1397 -2.56794) (layer Eco1.User)
     (effects (font (size 1.27 1.27) (thickness 0.1016)))
   )

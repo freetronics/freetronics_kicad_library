@@ -1,8 +1,8 @@
-(module 2X5_127MMPITCH (layer F.Cu)
-  (fp_text reference 2X5_127MMPITCH (at -1.4605 -2.54 90) (layer F.SilkS)
-    (effects (font (size 0.5 0.5) (thickness 0.125)))
+(module 2X5_127MMPITCH (layer F.Cu) (tedit 54769FEC)
+  (fp_text reference 2X5_127MMPITCH (at 0.508 -4.445 180) (layer Eco1.User)
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (fp_text value val** (at 2.6035 -2.54 90) (layer F.SilkS)
+  (fp_text value val** (at 0.762 1.016) (layer Eco1.User) hide
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
   (fp_line (start -0.635 0.635) (end -1.0795 0.1905) (layer F.SilkS) (width 0.1))

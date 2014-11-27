@@ -1,8 +1,8 @@
-(module 1X07 (layer F.Cu) (tedit 546D7F42)
-  (fp_text reference JP2 (at 1.1938 -1.1938) (layer Eco1.User) hide
-    (effects (font (size 1.27 1.27) (thickness 0.127)))
+(module 1X07 (layer F.Cu) (tedit 5476A020)
+  (fp_text reference JP2 (at 0 0) (layer Eco1.User)
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (fp_text value M07 (at 2.54 3.81) (layer Eco1.User) hide
+  (fp_text value M07 (at 0 2.286) (layer Eco1.User) hide
     (effects (font (size 1.27 1.27) (thickness 0.1016)))
   )
   (fp_line (start 16.51 -0.635) (end 16.51 0.635) (layer F.SilkS) (width 0.203))

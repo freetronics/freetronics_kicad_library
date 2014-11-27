@@ -1,6 +1,6 @@
-(module LED_CUBE_BASE_4PIN (layer F.Cu)
+(module LED_CUBE_BASE_4PIN (layer F.Cu) (tedit 5476B337)
   (attr smd)
-  (fp_text reference LED_CUBE_BASE_4PIN (at 0 -4.50088) (layer F.SilkS)
+  (fp_text reference LED_CUBE_BASE_4PIN (at 0 -4.50088) (layer Eco1.User)
     (effects (font (size 0.9144 0.9144) (thickness 0.2032)))
   )
   (fp_text value val** (at 0 4.59994) (layer F.SilkS) hide

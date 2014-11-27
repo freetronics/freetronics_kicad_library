@@ -1,9 +1,9 @@
-(module 2X20 locked (layer F.Cu) (tedit 53D1DF9E)
-  (fp_text reference P1 (at -2.54 -1.27 90) (layer Eco1.User) hide
-    (effects (font (size 1.27 1.27) (thickness 0.127)))
+(module 2X20 locked (layer F.Cu) (tedit 5476A15E)
+  (fp_text reference P1 (at -0.127 -1.27 90) (layer Eco1.User)
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (fp_text value RASPBERRY_PI_PLUS_CON (at 2.54 2.54) (layer Eco1.User) hide
-    (effects (font (size 1.27 1.27) (thickness 0.1016)))
+  (fp_text value val** (at 2.413 1.905) (layer Eco1.User) hide
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (fp_line (start 46.99 -3.175) (end 46.99 0.635) (layer F.SilkS) (width 0.1524))
   (fp_line (start 44.45 -3.175) (end 44.45 0.635) (layer F.SilkS) (width 0.1524))
@@ -90,7 +90,7 @@
   (fp_line (start 26.67 -3.175) (end 27.305 -3.81) (layer F.SilkS) (width 0.1524))
   (fp_line (start 27.305 -3.81) (end 28.575 -3.81) (layer F.SilkS) (width 0.1524))
   (fp_line (start 28.575 -3.81) (end 29.21 -3.175) (layer F.SilkS) (width 0.1524))
-  (fp_text user 1 (at -1.651 2.413) (layer Eco1.User)
+  (fp_text user 1 (at 0 2.286) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.16256)))
   )
   (fp_line (start -1.27 0.635) (end -0.635 1.27) (layer F.SilkS) (width 0.1524))

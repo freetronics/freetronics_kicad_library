@@ -1,6 +1,6 @@
-(module DIL08 (layer F.Cu)
+(module DIL08 (layer F.Cu) (tedit 5476A7D0)
   (descr "<b>Dual In Line Package</b>")
-  (fp_text reference DIL08 (at -5.969 -0.889 90) (layer Eco1.User)
+  (fp_text reference DIL08 (at 0 -0.762 180) (layer Eco1.User)
     (effects (font (size 1.27 1.27) (thickness 0.127)))
   )
   (fp_text value val** (at 0.254 1.27) (layer Eco1.User)

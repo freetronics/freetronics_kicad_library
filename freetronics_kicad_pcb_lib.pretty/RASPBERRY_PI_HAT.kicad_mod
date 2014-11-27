@@ -1,8 +1,8 @@
-(module RASPBERRY_PI_HAT locked (layer F.Cu) (tedit 54654457)
-  (fp_text reference P1 (at -3.75 -12 90) (layer Eco1.User) hide
+(module RASPBERRY_PI_HAT locked (layer F.Cu) (tedit 5476BAE6)
+  (fp_text reference P1 (at -3 -5.5 180) (layer Eco1.User) hide
     (effects (font (size 1.27 1.27) (thickness 0.127)))
   )
-  (fp_text value RASPBERRY_PI_PLUS_CON (at 12.5 -11.5) (layer Eco1.User) hide
+  (fp_text value RASPBERRY_PI_PLUS_CON (at 13 -5.5) (layer Eco1.User) hide
     (effects (font (size 1.27 1.27) (thickness 0.1016)))
   )
   (fp_line (start 11.5 49) (end 13.5 49) (layer Cmts.User) (width 0.15))

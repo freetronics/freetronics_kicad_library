@@ -1,8 +1,8 @@
-(module LEOSTICK_SHIELD locked (layer F.Cu)
-  (fp_text reference LEOSTICK_SHIELD (at 31.75 2.54) (layer F.SilkS)
+(module LEOSTICK_SHIELD locked (layer F.Cu) (tedit 5476B3F7)
+  (fp_text reference LEOSTICK_SHIELD (at 31.75 2.54) (layer Eco1.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value val** (at 22.86 2.54) (layer F.SilkS)
+  (fp_text value val** (at 22.86 2.54) (layer Eco1.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 33.782 -15.621) (end 33.782 -16.891) (angle 90) (layer Cmts.User) (width 0.15))

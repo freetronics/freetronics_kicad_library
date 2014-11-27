@@ -1,4 +1,4 @@
-(module LOGO_OSHW_silkscreen_10mm (layer F.Cu)
+(module LOGO_OSHW_silkscreen_10mm (layer F.Cu) (tedit 5476B4AC)
   (fp_text reference LOGO_OSHW_silkscreen_10mm (at 0 5.30352) (layer F.SilkS) hide
     (effects (font (size 0.45466 0.45466) (thickness 0.0889)))
   )

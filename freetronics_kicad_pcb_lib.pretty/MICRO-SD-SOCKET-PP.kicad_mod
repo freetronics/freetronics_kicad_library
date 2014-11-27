@@ -1,9 +1,9 @@
-(module MICRO-SD-SOCKET-PP (layer F.Cu)
-  (fp_text reference MICRO-SD-SOCKET-PP (at -3.683 -4.064) (layer Cmts.User) hide
-    (effects (font (size 0.508 0.508) (thickness 0.00254)))
+(module MICRO-SD-SOCKET-PP (layer F.Cu) (tedit 5476B635)
+  (fp_text reference MICRO-SD-SOCKET-PP (at -6.9 -6.8) (layer Eco1.User)
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (fp_text value val** (at -2.54 -3.175) (layer Eco1.User) hide
-    (effects (font (size 0.508 0.508) (thickness 0.00254)))
+  (fp_text value val** (at -6.8 -5) (layer Eco1.User)
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (fp_line (start -13.99794 0) (end -13.99794 -13.19784) (layer F.SilkS) (width 0.2032))
   (fp_line (start 0 -12.09802) (end 0 0) (layer F.SilkS) (width 0.2032))

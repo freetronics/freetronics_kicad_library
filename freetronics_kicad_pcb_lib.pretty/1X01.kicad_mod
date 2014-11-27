@@ -1,8 +1,8 @@
-(module 1X01 (layer F.Cu)
-  (fp_text reference 1X01 (at 3.7338 -1.1938) (layer Eco1.User)
-    (effects (font (size 1.27 1.27) (thickness 0.1016)))
+(module 1X01 (layer F.Cu) (tedit 54769DB5)
+  (fp_text reference 1X01 (at 0 0) (layer Eco1.User)
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (fp_text value val** (at 2.54 3.81) (layer Eco1.User)
+  (fp_text value val** (at 0 1.5) (layer Eco1.User) hide
     (effects (font (size 1.27 1.27) (thickness 0.1016)))
   )
   (fp_line (start 1.27 -0.635) (end 0.635 -1.27) (layer F.SilkS) (width 0.2032))
