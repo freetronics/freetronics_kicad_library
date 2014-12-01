@@ -18,7 +18,7 @@ Things you may find useful here:
 
 Except for items noted under "Attribution", the schematic symbols and footprints in this library are provided by Freetronics Pty Ltd under the terms of [Creative Commons Attribution Share-Alike License 4.0 CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) - as described in the file LICENSE.
 
-**This license does not apply to projects designed using parts from this library**. We don't consider such projects to be a modified form of the library, so we encourage you to publish your own projects under *any license you choose* (open or closed). We only require Attribution & Share-Alike if you distribute a modified version of this KiCad library, as a library.
+**This license does not apply to projects designed using parts from this library**. We don't consider such projects to be a modified form of the library, so we encourage you to **publish your own projects under any license you choose** (open or closed). We only require Attribution & Share-Alike if you distribute a modified version of this KiCad library, as a library.
 
 Of course, if your project uses components from this library and you appreciate it then a shout out and a link back is always appreciated, regardless. :)
 
