@@ -52,10 +52,6 @@ D 26 pin connector
 K CONN
 $ENDCMP
 #
-$CMP CRYSTAL_TXC_7V
-D 4 pin SMD crystal
-$ENDCMP
-#
 $CMP JOYSTICK_W_BUTTON
 D Mini Joystick with button, similar to PS2 controller joystick
 K joystick button ps2
@@ -105,11 +101,6 @@ $ENDCMP
 #
 $CMP SW_DPST
 K SWITCH
-$ENDCMP
-#
-$CMP SW_PUSHBUTTON_2PIN
-D Pushbutton
-K SWITCH BUTTON
 $ENDCMP
 #
 $CMP SW_SPDT
