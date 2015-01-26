@@ -58,7 +58,7 @@ The KiCad schematic symbols replace quite a few of the common symbols (R for Res
 
 ### Footprints
 
-The file `fp_lib_table` in your project directory allows you to associate a list of library paths or URLs with your project. You can edit this library table inside KiCad (in the PCB editor pcbnew, choose Edit -> Library Tables), but if you're just starting out the easiest way is to copy this snippet into a new file `fp_lib_table`, then restart KiCad.
+The file `fp-lib-table` in your project directory allows you to associate a list of library paths or URLs with your project. You can edit this library table inside KiCad (in the PCB editor pcbnew, choose Edit -> Library Tables), but if you're just starting out the easiest way is to copy this snippet into a new file `fp-lib-table` in your project directory, then restart KiCad.
 
 ```lisp
 (fp_lib_table
