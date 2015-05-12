@@ -1,4 +1,4 @@
-(module ARDUINO_SHIELD_ROUNDPADS_BREAKOUT locked (layer F.Cu) (tedit 554AB6AB)
+(module ARDUINO_SHIELD_ROUNDPADS_BREAKOUT locked (layer F.Cu) (tedit 55528A44)
   (descr test)
   (fp_text reference SHIELD1 (at -3.81 -49.53 90) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
@@ -1093,7 +1093,7 @@
   (fp_text user D5 (at 50.8 -47.975) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
   )
-  (fp_text user D1 (at 50.8 -47.975) (layer F.SilkS)
+  (fp_text user D5 (at 50.8 -47.975) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 50.913 -48.8045) (end 50.913 -49.53) (layer F.SilkS) (width 0.2))
