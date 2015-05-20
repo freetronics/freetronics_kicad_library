@@ -5,8 +5,8 @@
   (fp_text value VAL** (at 0 2) (layer Eco1.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (pad "" np_thru_hole circle (at -4.3 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask F.SilkS))
-  (pad "" np_thru_hole circle (at 4.3 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at -4.3 0) (size 3.2 3.2) (drill 2.2) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at 4.3 0) (size 3.2 3.2) (drill 2.2) (layers *.Cu *.Mask F.SilkS))
   (pad W thru_hole circle (at 0 7) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -2.5 7) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.5 7) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
