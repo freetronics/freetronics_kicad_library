@@ -99,6 +99,11 @@ D RESISTOR PACK (8 resistors)
 K RESISTOR
 $ENDCMP
 #
+$CMP SMF05C
+D SMF05C TVS 5V
+F http://www.semtech.com/images/datasheet/smf05c.pdf
+$ENDCMP
+#
 $CMP SW_DPST
 K SWITCH
 $ENDCMP
