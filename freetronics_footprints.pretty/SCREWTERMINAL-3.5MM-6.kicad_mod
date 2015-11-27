@@ -1,5 +1,5 @@
-(module TERMINALBLOCK_3.5MM_6 (layer F.Cu) (tedit 5477A6AA)
-  (fp_text reference TERMINALBLOCK_3.5MM_6 (at 8.8 -2) (layer Eco1.User)
+(module SCREWTERMINAL-3.5MM-6 (layer F.Cu) (tedit 5477A6AA)
+  (fp_text reference SCREWTERMINAL-3.5MM-6 (at 8.8 -2) (layer Eco1.User)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (fp_text value val** (at 8.85 1.75) (layer Eco1.User) hide
