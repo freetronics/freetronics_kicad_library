@@ -1,6 +1,6 @@
 This is a KiCad schematic & PCB footprint library created by Freetronics.
 
-[KiCad](http://www.kicad-pcb.org) is an open source
+[KiCad](http://www.kicad.org) is an open source
 [EDA](http://en.wikipedia.org/wiki/Electronic_design_automation)
 software program.
 
